@@ -32,7 +32,6 @@ The dashboard helps in identifying **top performers, underperformers, and target
 ## 📷 Dashboard Preview
 
 ![Sales Dashboard](dashboard.png)
-dashboard.png.png
 
 ---
 
