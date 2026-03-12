@@ -1,6 +1,12 @@
 # 📊 Sales Dashboard - Excel Project
 
-## 📌 Project Overview
+![Excel](https://img.shields.io/badge/Tool-Excel-green)
+![Dashboard](https://img.shields.io/badge/Project-Sales%20Dashboard-blue)
+![Role](https://img.shields.io/badge/Role-Data%20Analyst-orange)
+
+---
+
+# 📌 Project Overview
 
 This project presents an **interactive Sales Dashboard built using Microsoft Excel** to analyze and visualize sales performance across multiple cities and sales executives.
 
@@ -8,7 +14,50 @@ The dashboard helps in identifying **top performers, underperformers, and target
 
 ---
 
-## 📈 Key Insights Displayed
+# 🎯 Business Problem
+
+Sales managers need a clear view of sales performance across different cities and sales executives.
+
+The goal of this dashboard is to:
+
+* Identify top performing sales executives
+* Detect underperforming sales representatives
+* Track target achievement percentages
+* Compare sales performance across cities
+
+---
+
+# 📂 Dataset
+
+The dataset contains sales performance data of multiple sales executives across different cities.
+
+Columns used in the dataset include:
+
+* Sales Executive Name
+* City
+* Sales Amount
+* Target Amount
+* Target Hit %
+* Away From Target %
+
+This dataset is used to analyze sales performance and identify **top and bottom performers**.
+
+---
+
+# 📊 Key KPIs
+
+The dashboard tracks the following key performance indicators:
+
+* Total Sales
+* Target Achievement %
+* Top 5 Sales Executives
+* Bottom 5 Sales Executives
+* Sales Performance by City
+* Target vs Actual Comparison
+
+---
+
+# 📈 Key Insights Displayed
 
 * Top 5 Sales Executives
 * Bottom 5 Sales Executives
@@ -18,7 +67,7 @@ The dashboard helps in identifying **top performers, underperformers, and target
 
 ---
 
-## 🛠 Tools & Skills Used
+# 🛠 Tools & Skills Used
 
 * Microsoft Excel
 * Pivot Tables
@@ -29,40 +78,51 @@ The dashboard helps in identifying **top performers, underperformers, and target
 
 ---
 
-## 📷 Dashboard Preview
+# 🖥 Dashboard Preview
 
-![Sales Dashboard](dashboard.png)
-
----
-
-## 📊 Dashboard Features
-
-* Interactive **City Filter Buttons**
-* Dynamic **Bar Chart for Top Performers**
-* **Pie Chart Visualization**
-* **Performance Comparison Line Chart**
-* Clean and structured **dashboard layout**
+![Dashboard Preview](dashboard.png)
 
 ---
 
-## 📂 Files Included
+# ✨ Dashboard Features
 
-* `Sales_Dashboard.xlsx` → Excel dashboard file
-* `dashboard.png` → Screenshot preview of the dashboard
-* `README.md` → Project documentation
+* Interactive City Filter Buttons
+* Dynamic Bar Chart for Top Performers
+* Pie Chart Visualization
+* Performance Comparison Line Chart
+* Clean and structured dashboard layout
 
 ---
 
-## 🚀 How to Use
+# 📁 Project Structure
+
+Excel-Sales-Dashboard/
+
+├── Sales_Dashboard.xlsm → Excel dashboard file
+├── dashboard.png → Screenshot preview of the dashboard
+└── README.md → Project documentation
+
+---
+
+# 🚀 How to Use
 
 1. Download the repository
-2. Open **Sales_Dashboard.xlsx**
+2. Open **Sales_Dashboard.xlsm**
 3. Use the **city filter buttons** to explore the dashboard
 4. Analyze performance metrics and visual charts
 
 ---
 
-## 👨‍💻 Author
+# 🚀 Future Improvements
+
+* Add monthly sales trend analysis
+* Build Power BI version of this dashboard
+* Automate data refresh
+* Add advanced KPI metrics
+
+---
+
+# 👨‍💻 Author
 
 **Naveen Babu Kommu**
 
@@ -71,4 +131,4 @@ The dashboard helps in identifying **top performers, underperformers, and target
 
 ---
 
-⭐ If you found this project useful, feel free to star the repository!
+⭐ If you found this project useful, please consider giving it a **star**!
