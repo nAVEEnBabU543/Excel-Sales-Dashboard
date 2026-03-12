@@ -1,6 +1,6 @@
 # 📊 Excel Sales Dashboard
 
-![Excel Sales Analysis](images/excel_banner.png)
+![Excel Sales Analysis](excel_banner.png)
 
 An **interactive Sales Dashboard built using Microsoft Excel** to analyze sales performance, track KPIs, and identify top and bottom performing sales executives across multiple cities.
 
